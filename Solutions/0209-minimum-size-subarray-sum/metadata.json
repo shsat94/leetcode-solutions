@@ -1,0 +1,11 @@
+{
+    "title": "Minimum Size Subarray Sum",
+    "slug": "minimum-size-subarray-sum",
+    "questionId": "209",
+    "language": "csharp",
+    "runtime": "0 ms",
+    "memory": "54.6 MB",
+    "submissionId": "2075328206",
+    "solvedAt": "2026-07-21T05:10:11.679Z",
+    "url": "https://leetcode.com/problems/minimum-size-subarray-sum/"
+}
