@@ -10,9 +10,9 @@ https://leetcode.com/problems/jump-game-ii/
 
 **Language:** java
 
-**Runtime:** 1 ms
+**Runtime:** 0 ms
 
-**Memory:** 47.1 MB
+**Memory:** 41.4 MB
 
 ---
 
